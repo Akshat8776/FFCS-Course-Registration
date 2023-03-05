@@ -22,4 +22,4 @@ It allows the user to search for subjects, add them to their timetable, remove t
 Additionally, the website provides the option to create and save multiple timetables, which can be useful for students who want to plan their schedule for different scenarios. 
 Overall, the website aims to simplify the process of managing a student's timetable and help them stay organized and on track with their coursework.
 
-That's it! You should now be able to use the FFCS timetable application. If you encounter any issues or have any feedback, feel free to open an issue on the Github repository.
+That's it! You should now be able to use the FFCS Course Registration application. If you encounter any issues or have any feedback, feel free to open an issue on the Github repository.
