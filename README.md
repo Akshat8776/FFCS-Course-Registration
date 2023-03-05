@@ -16,6 +16,8 @@ If you want to clear your entire timetable and start over, you can use the "Rese
 In addition to the default timetable, you can create and save multiple timetables. To create a new timetable, click on the "Default Timetable" button in the top right corner of the page. This will open a drop-down menu with the option to create a new timetable. Give your new timetable a name and click on "Create". You can then add subjects to your new timetable by searching for them and double-clicking on the slot where you want to add the subject.
 To switch between timetables, click on the "Default Timetable" button again and select the timetable you want to switch to. You can also delete timetables by clicking on the "Delete" button next to the timetable name.
 
+Note : If you face any issue while downloading or opening the website you can just download the FFCS Course Registration.zip file and extract it and open the live server on index.html file
+
 Usage:
 The purpose of this website is to provide a user-friendly interface for managing a student's timetable for FFCS. 
 It allows the user to search for subjects, add them to their timetable, remove them, and download their timetable. 
